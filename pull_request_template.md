@@ -10,4 +10,5 @@
 -  `..`
 
 ## Other changes
--
+- My first pull request
+- Hacktoberfest2022
